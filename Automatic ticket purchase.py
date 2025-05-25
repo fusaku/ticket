@@ -12,7 +12,7 @@ import requests
 import threading
 
 # === 配置项 ===
-chromedriver_path = "/Users/ka/Code/python/chromedriver-mac-arm64/chromedriver"
+chromedriver_path = "./chromedriver-mac-arm64/chromedriver"
 login_email = "mail@gmail.com"
 login_password = "password"
 
